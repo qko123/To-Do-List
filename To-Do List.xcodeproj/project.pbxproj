@@ -15,6 +15,7 @@
 		F168DBE7297EDF1A005B677A /* To_Do_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168DBE6297EDF1A005B677A /* To_Do_ListUITests.swift */; };
 		F168DBE9297EDF1A005B677A /* To_Do_ListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168DBE8297EDF1A005B677A /* To_Do_ListUITestsLaunchTests.swift */; };
 		F168DBF6297EE6DE005B677A /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168DBF5297EE6DE005B677A /* ToDoList.swift */; };
+		F168DBF8298030B2005B677A /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168DBF7298030B2005B677A /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		F168DBE6297EDF1A005B677A /* To_Do_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_ListUITests.swift; sourceTree = "<group>"; };
 		F168DBE8297EDF1A005B677A /* To_Do_ListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_ListUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		F168DBF5297EE6DE005B677A /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		F168DBF7298030B2005B677A /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			children = (
 				F168DBCB297EDF19005B677A /* To_Do_ListApp.swift */,
 				F168DBCD297EDF19005B677A /* ContentView.swift */,
+				F168DBF7298030B2005B677A /* AddItemView.swift */,
 				F168DBF5297EE6DE005B677A /* ToDoList.swift */,
 				F168DBCF297EDF1A005B677A /* Assets.xcassets */,
 				F168DBD1297EDF1A005B677A /* Preview Content */,
@@ -263,6 +266,7 @@
 				F168DBCE297EDF19005B677A /* ContentView.swift in Sources */,
 				F168DBF6297EE6DE005B677A /* ToDoList.swift in Sources */,
 				F168DBCC297EDF19005B677A /* To_Do_ListApp.swift in Sources */,
+				F168DBF8298030B2005B677A /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
